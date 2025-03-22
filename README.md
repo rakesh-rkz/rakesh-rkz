@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN Stack, Django, FastApi, AWS**
 
-- 📫 How to reach me **rakeshrkz2101@gmail.com**
+- 📫 How to reach me **rakesh21.official@gmail.com**
 
 - ⚡ Fun fact **🚀 I once pushed to main on a Friday and survived.**
 
