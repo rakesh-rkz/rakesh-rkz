@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
 <h3 align="center">A passionate Full (MERN) Stack Developer and AWS Specialist from INDIA</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio]()
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rakesh-rkz.github.io/portfolio/)
 
 - 💬 Ask me about **MERN Stack, Django, FastApi, AWS**
 
