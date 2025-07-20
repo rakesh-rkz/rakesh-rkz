@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rakesh-rkz.github.io/portfolio/)
 
-- 💬 Ask me about **MERN Stack, Django, FastApi, AWS**
+- 💬 Ask me about **MERN Stack, Python, CI/CD, Devops, AWS**
 
 - 📫 How to reach me **rakesh21.official@gmail.com**
 
